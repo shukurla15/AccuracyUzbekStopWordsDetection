@@ -43,7 +43,7 @@ Stop words are very important for information retrieval and text analysis invest
 
 ## Usage
 
-- Clone the repository: `git clone https://github.com/shukurla15/school-corpus-uzbek-stopwords.git`
+- Clone the repository: `[git clone https://github.com/shukurla15/school-corpus-uzbek-stopwords.git](https://github.com/shukurla15/adabiyot11sinf)`
 - Access the dataset files in the `data` directory.
 
 ## Citation
