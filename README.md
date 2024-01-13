@@ -44,7 +44,7 @@ Stop words are very important for information retrieval and text analysis invest
 ## Usage
 
 - Clone the repository: [git clone](https://github.com/shukurla15/adabiyot11sinf)
-- Access the dataset files in the `data` directory.
+- Access the dataset files in the [data](https://github.com/shukurla15/adabiyot11sinf/blob/main/adab11.json) directory.
 
 ## Citation
 
